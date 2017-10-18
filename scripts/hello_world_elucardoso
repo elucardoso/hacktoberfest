@@ -1,0 +1,10 @@
+// LANGUAGE: Java
+// ENV: hw.js
+// AUTHOR: Elu Cardoso
+// GITHUB: https://github.com/elucardoso
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
