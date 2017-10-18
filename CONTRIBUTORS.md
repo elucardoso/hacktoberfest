@@ -1047,3 +1047,8 @@ Noida
 - Place: Kassel, Hesse, Germany
 - Bio: Student on his way to the Abitur
 - GitHub: [LukBukkit](https://github.com/lukbukkit)
+
+#### Name: [Eluana Sievert Cardoso](https://github.com/elucardoso)
+- Place: Curitiba, PR, Brasil
+- Bio: Product Developer
+- Github: [Elucardoso](https://github.com/elucardoso)
